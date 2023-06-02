@@ -1,0 +1,50 @@
+Microsoft Windows [Version 10.0.19043.1165]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\namej>cd Desktop
+
+C:\Users\namej\Desktop>mkdir cpts215
+
+C:\Users\namej\Desktop>cd cpts215
+
+C:\Users\namej\Desktop\cpts215>mkdir lectures
+
+C:\Users\namej\Desktop\cpts215>mkdir ma
+
+C:\Users\namej\Desktop\cpts215>mkdir pa
+
+C:\Users\namej\Desktop\cpts215>cd ma
+
+C:\Users\namej\Desktop\cpts215\ma>mkdir ma1
+
+C:\Users\namej\Desktop\cpts215\ma>cd ma1
+
+C:\Users\namej\Desktop\cpts215\ma\ma1>copy NUL hello_world.py
+        1 file(s) copied.
+
+C:\Users\namej\Desktop\cpts215\ma\ma1>cd..
+
+C:\Users\namej\Desktop\cpts215\ma>cd..
+
+C:\Users\namej\Desktop\cpts215>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6A7B-C16D
+
+ Directory of C:\Users\namej\Desktop\cpts215
+
+2021-09-01  오전 01:14    <DIR>          .
+2021-09-01  오전 01:14    <DIR>          ..
+2021-09-01  오전 01:14    <DIR>          lectures
+2021-09-01  오전 01:14    <DIR>          ma
+2021-09-01  오전 01:14    <DIR>          pa
+               0 File(s)              0 bytes
+               5 Dir(s)  159,645,155,328 bytes free
+
+C:\Users\namej\Desktop\cpts215>tree
+Folder PATH listing
+Volume serial number is 6A7B-C16D
+C:.
+├───lectures
+├───ma
+│   └───ma1
+└───pa
